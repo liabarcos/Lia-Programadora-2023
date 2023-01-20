@@ -1,0 +1,60 @@
+*{
+    color: blue;
+}
+
+p, span {
+
+    width: 300px;
+    color: red;
+
+}
+
+/**
+Eato es un comentario de un documento de CSS
+*/
+
+h1{
+    font-family:  'Roboto', sans-serif;
+    font-weight: bold;
+    color: grey;
+    border: 1px solid black;
+    /*padding top: 20 px;
+    padding-bottom: 15px;
+    padding-left: 15 px;
+    padding-right: 20 px;*/
+    margin-top: 40 px;
+    margin bottom: 20 px;
+    margin left: 10 px;
+    margin right: 10 px;
+    
+
+
+}
+
+
+
+
+section{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+
+  #mi_parrafo {
+    color: yellow;
+    font-size: 23px;
+    border: 1p solid orange;
+  }
+
+  .estaesmiclase {
+
+    font-weight: bold;
+    color: lightblue;
+  }
+
+  section h1 {
+    font-weight: 400px;
+
+  }
